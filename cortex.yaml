@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: CortexpocTEST
+  x-cortex-git:
+    github:
+      repository: POCServiceCataloge/CortexPOC
+  x-cortex-tag: cortexpoc
+  x-cortex-type: service
+  x-cortex-owners:
+  - type: EMAIL
+    email: cloud9_tribe@tavisca.com
+  - name: cloud9
+    type: GROUP
